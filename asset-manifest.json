@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/luisreales/EjemploReactCUCII/static/css/main.cb892542.chunk.css",
+    "main.js": "/luisreales/EjemploReactCUCII/static/js/main.01b072b1.chunk.js",
+    "main.js.map": "/luisreales/EjemploReactCUCII/static/js/main.01b072b1.chunk.js.map",
+    "runtime-main.js": "/luisreales/EjemploReactCUCII/static/js/runtime-main.c35db98a.js",
+    "runtime-main.js.map": "/luisreales/EjemploReactCUCII/static/js/runtime-main.c35db98a.js.map",
+    "static/js/2.5b7a3fe2.chunk.js": "/luisreales/EjemploReactCUCII/static/js/2.5b7a3fe2.chunk.js",
+    "static/js/2.5b7a3fe2.chunk.js.map": "/luisreales/EjemploReactCUCII/static/js/2.5b7a3fe2.chunk.js.map",
+    "index.html": "/luisreales/EjemploReactCUCII/index.html",
+    "precache-manifest.51d34f101ea62fdeed378b44ea36db20.js": "/luisreales/EjemploReactCUCII/precache-manifest.51d34f101ea62fdeed378b44ea36db20.js",
+    "service-worker.js": "/luisreales/EjemploReactCUCII/service-worker.js",
+    "static/css/main.cb892542.chunk.css.map": "/luisreales/EjemploReactCUCII/static/css/main.cb892542.chunk.css.map",
+    "static/js/2.5b7a3fe2.chunk.js.LICENSE.txt": "/luisreales/EjemploReactCUCII/static/js/2.5b7a3fe2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c35db98a.js",
+    "static/js/2.5b7a3fe2.chunk.js",
+    "static/css/main.cb892542.chunk.css",
+    "static/js/main.01b072b1.chunk.js"
+  ]
+}
